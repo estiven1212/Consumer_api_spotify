@@ -1,4 +1,18 @@
 <<<<<<< HEAD
+
+#E1_Consumer_api_Spotify_EquipoDinamita
+
+Electiva 1
+
+Spotify api consumer
+
+Equipo Dinamita
+
+Estiven Quintero 
+Hermes Soto
+
+Este proyecto implementa una versión propia con el fin de mostrar las playlists/Canciones más escuchadas de los usuarios
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
