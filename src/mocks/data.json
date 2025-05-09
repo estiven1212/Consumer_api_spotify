@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "La plena",
+    "artist": "Beele",
+    "image": "https://www.letrasboom.com/thumbs/artistas/img_1723041166.png"
+  },
+  {
+    "id": 2,
+    "title": "DTMF",
+    "artist": "Bad Bunny",
+    "image": "https://tse2.mm.bing.net/th?id=OIP.pvDsbt7pU1jYNGBr3Q-fsgHaHa&pid=Api&P=0&h=180"
+  },
+  {
+    "id": 3,
+    "title": "Si no estás",
+    "artist": "Iñigo Quintero",
+    "image": "https://tse3.mm.bing.net/th?id=OIP.LbgufAO4aR7zHSOim9756wHaHa&pid=Api&P=0&h=180"
+  },
+  {
+    "id": 4,
+    "title": "Some Like You ",
+    "artist": "Adele",
+    "image": "https://tse4.mm.bing.net/th?id=OIP.xyOq_6OIPrX8efKHcxJYlgAAAA&pid=Api&P=0&h=180"
+  },
+  {
+    "id": 5,
+    "title": "Mami Chula",
+    "artist": "Trueno",
+    "image": "https://tse2.mm.bing.net/th?id=OIP.PcHFLe1CI_OJqfeGXnFusAHaHa&pid=Api&P=0&h=180"
+  },
+  {
+    "id": 6,
+    "title": "Baile Inolvidable",
+    "artist": "Bad Bunny",
+    "image": "https://tse1.mm.bing.net/th?id=OIP.vE-dDWGK3dtqoghqoW-6NwHaHa&pid=Api&P=0&h=180"
+  },
+  {
+    "id": 7,
+    "title": "Mi refe",
+    "artist": "Beele",
+    "image": "https://tse3.mm.bing.net/th?id=OIP.5WHpJ4oviy5aLA5PqODUIgHaHa&pid=Api&P=0&h=180"
+  },
+  {
+    "id": 8,
+    "title": "120",
+    "artist": "Bad Bunny",
+    "image": "https://tse1.mm.bing.net/th?id=OIP.QyX3yOXCpO_jX6gvk9MsDgHaHa&pid=Api&P=0&h=180"
+  },
+  {
+    "id": 9,
+    "title": "Rojo",
+    "artist": "J Balvin",
+    "image": "https://tse4.mm.bing.net/th?id=OIP.noZbAaC12rs5RQMR5K8bIwHaHa&pid=Api&P=0&h=180"
+  },
+  {
+    "id":  10,
+    "title": "Azul",
+    "artist": "J Balvin",
+    "image": "https://tse2.mm.bing.net/th?id=OIP.Xo3iTSLqffzU0jjZOEBocgHaHa&pid=Api&P=0&h=180"
+  },
+  {
+    "id": 11,
+    "title": "La bachata",
+    "artist": "Manuel Turizo",
+    "image": "https://tse2.mm.bing.net/th?id=OIP.L97X-9vDczX2CsJnUKJr3QHaHa&pid=Api&P=0&h=180"
+  },
+  {
+    "id": 12,
+    "title": "Vagabundo",
+    "artist": "Yatra,Beele,Turizo",
+    "image": "https://tse3.mm.bing.net/th?id=OIP.24q5y4nroD8am6TAagCyVgHaHa&pid=Api&P=0&h=180"
+  }
+]
