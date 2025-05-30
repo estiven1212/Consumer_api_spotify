@@ -92,3 +92,43 @@
   align-items: center;
   justify-content: center;
 }
+.switch-auth {
+  margin-top: 1.5rem;
+  font-size: 0.95rem;
+  color: #ccc;
+  text-align: center;
+}
+
+.switch-auth a {
+  color: #1DB954; /* Verde Spotify */
+  text-decoration: none;
+  font-weight: 600;
+  margin-left: 0.3rem;
+  transition: color 0.3s ease, text-decoration 0.3s ease;
+}
+
+.switch-auth a:hover {
+  color: #1ed760; /* Verde más brillante al pasar el mouse */
+  text-decoration: underline;
+}
+.Spotify {
+  background-color: #1DB954; /* verde Spotify */
+  color: white;
+  border: none;
+  padding: 0.75rem;
+  border-radius: 5px;
+  cursor: pointer;
+  width: 100%;
+  font-size: 1rem;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.Spotify:hover {
+  background-color: #1ed760;
+  transform: scale(1.03);
+}

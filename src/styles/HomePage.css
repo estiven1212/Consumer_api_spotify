@@ -1,0 +1,12 @@
+.featured-playlists {
+  margin-top: 2rem;
+  background: rgba(0, 0, 0, 0.4);
+  padding: 2rem;
+  border-radius: 1rem;
+}
+
+.featured-playlists h2 {
+  color: #1DB954;
+  margin-bottom: 1.5rem;
+  text-align: center;
+}

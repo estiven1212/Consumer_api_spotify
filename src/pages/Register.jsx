@@ -11,6 +11,7 @@ import { FcGoogle } from 'react-icons/fc';
 import '../styles/Register.css';
 import { useAuth } from '../auth/context/AuthContext';
 import { LOGIN } from '../auth/types/authTypes';
+import { FaFacebook } from 'react-icons/fa';
 
 const Register = () => {
   const navigate = useNavigate();
@@ -109,6 +110,12 @@ const Register = () => {
             <button className="login-button google" onClick={handleGoogleRegister}>
               <FcGoogle className="icon" /> Registrarse con Google
             </button>
+            <button className="login-button google" onClick={handleGoogleRegister}>
+              <FaFacebook className="icon" /> Registrarse con Hermes.com
+            </button>
+        <p className="switch-auth">
+        ¿Ya tienes una cuenta? <a href="/login">Inicia sesión</a>
+        </p>
           </>
         )}
       </div>
